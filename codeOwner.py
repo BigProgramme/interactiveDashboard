@@ -23,4 +23,3 @@ class CodeOwner:
         '''
         return f'Owner Contact Information:\n     Name: {self.name}\n     Email: {self.email}\n     GitHub: {self.github}'
     
-print(CodeOwner().contact())
